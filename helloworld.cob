@@ -4,6 +4,4 @@ PROGRAM-ID. helloworld.
 AUTHOR. Ursin Filli
 DATE-WRITTEN. April 28th 2020
 PROCEDURE DIVISION.
-DISPLAY "Hello World"
-
-STOP RUN.
+DISPLAY "Hello World".
