@@ -34,5 +34,4 @@ DISPLAY "Enter your social security number "
 ACCEPT SSNum
 DISPLAY "Area " SSArea
 
-
 STOP RUN.
