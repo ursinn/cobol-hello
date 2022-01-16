@@ -1,7 +1,6 @@
 # Cobol | Hello
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/ursinn/cobol-hello?logo=github&style=for-the-badge)](https://github.com/ursinn/cobol-hello/commits)
-[![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/ursinn/cobol-hello?logo=codeclimate&style=for-the-badge)](https://codeclimate.com/github/ursinn/cobol-hello)
 [![License](https://img.shields.io/github/license/ursinn/cobol-hello?style=for-the-badge)](https://github.com/ursinn/cobol-hello/blob/main/LICENSE)
 
 ## License
